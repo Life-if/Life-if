@@ -1,16 +1,27 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm SeanVoyager </h2>
 
-<!--
-**Life-if/Life-if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.baidu.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Blog-SeanVoyager-informational?logo=googlescholar&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.baidu.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Blog-SeanVoyager-informational?logo=googlescholar&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/Blog-SeanVoyager-informational?logo=googlescholar&logoColor=white)](https://www.baidu.com)
+![](https://img.shields.io/badge/Blog-SeanVoyager-2962FF?style=flat&logo=ghost&logoColor=white)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### **About Me:**
+
+AI Engineer dedicated to translating academic research into scalable solutions for industrial automation and real-world applications .
+
+
+AI Engineer. Currently transforming cutting-edge research into production-ready solutions for industrial automation and multimodal understanding.
+人工智能工程师。目前正致力于将前沿研究转化为面向工业自动化与多模态理解的生产级解决方案。
+
+---
+
