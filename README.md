@@ -1,18 +1,10 @@
 <h2 align="center">👋 Hello! I'm SeanVoyager </h2>
 
 <p align="center">
-  <a href="https://www.baidu.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Blog-SeanVoyager-informational?logo=googlescholar&logoColor=white"/>
-  </a>
+  <a href="https://www.baidu.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Blog-SeanVoyager-1a5276?logo=googlescholar&logoColor=f4f6f6"  alt="Blog: SeanVoyager" /></a> 
   &nbsp;
-  <a href="https://www.baidu.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Blog-SeanVoyager-informational?logo=googlescholar&logoColor=white"/>
-  </a>
+  <a href="mailto:seanvoyager.cn@gmail.com"><img src="https://img.shields.io/badge/Mail-Contact%20Me-important?logo=gmail&logoColor=f4f6f6" alt="Email: Contact Me"/></a>&nbsp;
 </p>
-
-[![](https://img.shields.io/badge/Blog-SeanVoyager-informational?logo=googlescholar&logoColor=white)](https://www.baidu.com)
-![](https://img.shields.io/badge/Blog-SeanVoyager-2962FF?style=flat&logo=ghost&logoColor=white)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 
 ---
 ### **About Me:**
