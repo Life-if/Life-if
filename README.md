@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./title-1024.png" alt="page image" width="80%" style="max-width: 800px; display: block;" />
+</p>
+
 <h2 align="center">👋 Hello! I'm SeanVoyager </h2>
 
 <p align="center">
