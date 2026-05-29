@@ -2,7 +2,7 @@
   <img src="./title-1024.png" alt="page image" width="100%" style="max-width: 800px; display: block;" />
 </p>
 
-<h2 align="center">👋 Hello! I'm SeanVoyager </h2>
+<h2 align="center">👋 Hi! I'm SeanVoyager </h2>
 
 <p align="center">
   <a href="https://www.baidu.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Blog-SeanVoyager-1a5276?logo=googlescholar&logoColor=f4f6f6"  alt="Blog: SeanVoyager" /></a> 
@@ -13,11 +13,15 @@
 ---
 ### **About Me:**
 
-AI Engineer dedicated to translating academic research into scalable solutions for industrial automation and real-world applications .
+🧑‍💻 I'm an AI Engineer focused on turning academic research into real-world solutions for industrial automation.
 
+✨ Beyond work, I'm a content creator who loves photography and capturing life's moments. I'm also currently striving for a healthier lifestyle and a better work-life balance.
 
-AI Engineer. Currently transforming cutting-edge research into production-ready solutions for industrial automation and multimodal understanding.
-人工智能工程师。目前正致力于将前沿研究转化为面向工业自动化与多模态理解的生产级解决方案。
+### **Aspirations:**
+
+🚀 I love expanding my horizons and breaking down complex topics to share with others. 
+
+🎯 My goal is simple: to apply what I learn and ensure my projects have the potential to solve real problems—or at least inspire others to learn and build.
 
 ---
 
